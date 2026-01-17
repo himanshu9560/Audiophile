@@ -34,7 +34,7 @@ export default function Footer(){
 
                         <div className="flex flex-col items-center sm:flex-row sm:justify-between">
                             <div>
-                                <p className=" text-white opacity-50 mt-auto sm:text-left">Copyright 2021. All Rights Reserved</p>
+                                <p className=" text-white opacity-50 mt-auto sm:text-left"></p>
                             </div>
                             <div className="flex my-12 gap-6 sm:my-0 lg:-translate-y-16">
                                 <img src="/assets/shared/desktop/icon-facebook.svg" />
